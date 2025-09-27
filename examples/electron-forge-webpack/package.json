@@ -35,7 +35,7 @@
     "node-loader": "^2.0.0"
   },
   "dependencies": {
-    "@sentry/electron": "3.0.0",
+    "@sentry/electron": "3.0.8",
     "electron-squirrel-startup": "^1.0.0"
   }
 }
