@@ -10,7 +10,7 @@
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
     "@sentry/electron": "3.0.0",
-    "@sentry/vue": "7.15.0",
+    "@sentry/vue": "7.120.4",
     "vue": "^3.2.40"
   },
   "devDependencies": {
