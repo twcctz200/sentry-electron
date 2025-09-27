@@ -62,7 +62,7 @@
     "@sentry/core": "7.30.0",
     "@sentry/node": "7.30.0",
     "@sentry/types": "7.30.0",
-    "@sentry/utils": "7.30.0",
+    "@sentry/utils": "7.120.4",
     "deepmerge": "4.2.2",
     "tslib": "^2.3.1"
   },
