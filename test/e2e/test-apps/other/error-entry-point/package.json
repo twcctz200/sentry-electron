@@ -9,7 +9,7 @@
     "@sentry/electron": "3.0.0"
   },
   "devDependencies": {
-    "vite": "^2.7.10",
-    "electron": "13.1.9"
+    "vite": "^8.0.3",
+    "electron": "39.8.4"
   }
 }
